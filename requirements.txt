@@ -1,0 +1,6 @@
+discord.py
+Pillow
+arabic-reshaper
+aiohttp
+python-dotenv
+tzdata
